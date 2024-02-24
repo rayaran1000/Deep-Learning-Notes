@@ -1,0 +1,8 @@
+numpy
+pandas
+keras
+scikit-learn
+tensorflow==2.10
+matplotlib
+pydot
+graphviz
